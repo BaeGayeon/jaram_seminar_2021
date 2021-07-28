@@ -1,1 +1,1 @@
-# jaram_seminar_2021
+# jaram_seminar_web_2021
