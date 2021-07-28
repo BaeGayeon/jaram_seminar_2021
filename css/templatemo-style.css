@@ -25,6 +25,10 @@ CSS SITEMAP >>>>
 01. GENERAL CSS
 ================================================*/
 
+@font-face {
+  font-family: spoqa;
+  src: url('../fonts/SpoqaHanSansNeo-Regular.ttf');
+
 html,
 body {
   -webkit-font-smoothing: antialiased;
@@ -34,7 +38,7 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 body {
-  font: 16px/1.6 'Raleway', Arial, Helvetica, sans-serif;
+  font: 16px/1.6 'spoqa';
   color: #fff;
   text-align:center;
   background: #222;
